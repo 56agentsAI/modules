@@ -1,6 +1,6 @@
-# FIFTYSIX CONTRACTS (DEPRICATED)
+# FORTYTWO CONTRACTS (DEPRICATED)
 
-The development of cosmwasm smartcontracts within Fifysix has been depricated since **March 2024**. This codebase is not maintained and is only here for reference.
+The development of cosmwasm smartcontracts within fortytwo has been depricated since **March 2024**. This codebase is not maintained and is only here for reference.
 
 
 An [Abstract](https://abstract.money) api for staking tokens in CosmWasm contracts.
