@@ -4,7 +4,7 @@
       "code_ids": {
         "abstract:account-factory": 81,
         "abstract:ans-host": 79,
-        "abstract:manager": 83,
+        "abstract:manager": 84,
         "abstract:module-factory": 82,
         "abstract:proxy": 84,
         "abstract:version-control": 80
