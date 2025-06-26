@@ -20,7 +20,7 @@ If you're on mac add the following to your global git config (located at `~/.git
     helper = osxkeychain
 ```
 
-## Deployment
+# Deployment
 At the root of the project, wasm the contracts using:
 ### Wasming
 #### All
